@@ -139,15 +139,15 @@ These can be downloaded below:
     </tr>
     <tr>
         <td>MNIST</td>
-        <td>[mnist.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist.zip">mnist.zip</a></td>
     </tr>
     <tr>
         <td>SVHN</td>
-        <td>[svhn.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn.zip">svhn.zip</a></td>
     </tr>
     <tr>
         <td>Cifar10</td>
-        <td>[cifar10.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10.zip">cifar10.zip</a></td>
     </tr>
 </table>
 
@@ -219,63 +219,63 @@ all model bundled in the correct directory structure for reproducing experiments
         <th>Download</th>
     </tr>
     <tr>
-        <td colspan="2">**All for Reproduction**</td>
-        <td>[experiments.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/experiments.zip)</td>
+        <td colspan="2"><b>All for Reproduction</b></td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/experiments.zip">experiments.zip</a></td>
     </tr>
     <tr>
         <td>MNIST</td>
         <td>Normal</td>
-        <td>[mnist_normal.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_normal.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_normal.zip">mnist_normal.zip</a></td>
     </tr>
     <tr>
         <td>MNIST</td>
         <td>AT [1]</td>
-        <td>[mnist_at.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_at.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_at.zip">mnist_at.zip</a></td>
     </tr>
     <tr>
         <td>MNIST</td>
         <td>CCAT</td>
-        <td>[mnist_ccat.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_ccat.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_ccat.zip">mnist_ccat.zip</a></td>
     </tr>
     <tr>
         <td>MNIST</td>
         <td>MSD [8]</td>
-        <td>[mnist_msd.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_msd.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/mnist_msd.zip">mnist_msd.zip</a></td>
     </tr>
     <tr>
         <td>SVHN</td>
         <td>Normal</td>
-        <td>[svhn_normal.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_normal.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_normal.zip">svhn_normal.zip</a></td>
     </tr>
     <tr>
         <td>SVHN</td>
         <td>AT [1]</td>
-        <td>[svhn_at.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_at.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_at.zip">svhn_at.zip</a></td>
     </tr>
     <tr>
         <td>SVHN</td>
         <td>CCAT</td>
-        <td>[svhn_ccat.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_ccat.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/svhn_ccat.zip">svhn_ccat.zip</a></td>
     </tr>
     <tr>
         <td>Cifar10</td>
         <td>Normal</td>
-        <td>[cifar10_normal.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_normal.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_normal.zip">cifar10_normal.zip</a></td>
     </tr>
     <tr>
         <td>Cifar10</td>
         <td>AT [1]</td>
-        <td>[cifar10_at.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_at.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_at.zip">cifar10_at.zip</a></td>
     </tr>
     <tr>
         <td>Cifar10</td>
         <td>CCAT</td>
-        <td>[cifar10_ccat.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_ccat.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_ccat.zip">cifar10_ccat.zip</a></td>
     </tr>
     <tr>
         <td>Cifar10</td>
         <td>MSD [8]</td>
-        <td>[cifar10_msd.zip](https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_msd.zip)</td>
+        <td><a href="https://datasets.d2.mpi-inf.mpg.de/arxiv2019-ccat/cifar10_msd.zip">cifar10_msd.zip</a></td>
     </tr>
 </table>
 
