@@ -5,16 +5,15 @@ corresponding to the following paper:
 
 D. Stutz, M. Hein, B. Schiele.
 **Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks**.
-ArXiv, 2019.
+ICML, 2020.
 
 Please cite as:
 
-    @inproceedings{Stutz2019ARXIV,
-      title = {Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks},
-      author = {Stutz, David and Hein, Matthias and Schiele, Bernt},
-      journal   = {CoRR},
-      volume    = {abs/1910.06259},
-      year      = {2019},
+    @article{Stutz2020ICML,
+        author    = {David Stutz and Matthias Hein and Bernt Schiele},
+        title     = {Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks},
+        journal   = {Proceedings of the International Conference on Machine Learning {ICML}},
+        year      = {2020}
     }
 
 Also check the [project page](https://davidstutz.de/projects/confidence-calibrated-adversarial-training/).
