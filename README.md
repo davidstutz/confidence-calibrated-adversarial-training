@@ -1207,8 +1207,8 @@ Attacking can be started using:
     
 Both individual attacks as well as sets of attacks can be used, for example:
 
-    python3 train.py config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10 set_linf_white
-    python3 train.py config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10 normalized_zero_pgd_50_f7p_0001_momentum_backtrack
+    python3 attack.py config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10 set_linf_white
+    python3 attack.py config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10 normalized_zero_pgd_50_f7p_0001_momentum_backtrack
 
 where `normalized_zero_pgd_50_f7p_0001_momentum_backtrack` is our PGD-Conf attack with zero initialization.
 
