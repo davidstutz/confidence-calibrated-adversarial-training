@@ -329,7 +329,7 @@ _confidence-calibrated adversarial training_.
 Examples from this README in `examples/readme/`:
 
 * `download_dataset.py`: download and load datasets converted to HDF5;
-* `download_model.py`: download and load pre-trained models;
+* `download_model.py`: download and load models;
 * `run_attacks.py`: running attacks;
 * `run_lp_attacks.py`: running various `L_p` attacks;
 * `run_distal_attacks.py`: running distal attacks;
@@ -1167,17 +1167,23 @@ The following models can be trained:
 
 Training can be started using:
 
-    python3 train.py config.<dataset> <model>
+    python3 train.py <training_interface> config.<dataset> <model>
     
 For example, on SVHN, to train our CCAT model:
 
-    python3 train.py config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10
+    python3 train.py ConfidenceCalibratedAdversarialTrainingInterface config.svhn confidence_calibrated_adversarial_training_ce_f7p_i40_random_momentum_backtrack_power2_10
 
 Training can be monitored using
 
     python3 train_board.py config.<dataset> <model> --port <port>
 
 which will start a TensorBoard session on the provided port.
+
+The training interface will be 
+
+* `ConfidenceCalibratedAdversarialTrainingInterface` for confidence-calibrated adversarial training;
+* `AdversarialTrainingInterface` for adversarial training;
+* `NormalTrainingInterface` for normal training.
 
 ### Attacks
 
