@@ -64,7 +64,6 @@ This repository includes (with links to the respective parts):
 * Confidence-thresholded evaluation protocol for:
     * [adverarial examples](common/eval/adversarial_evaluation.py)
     * [distal adversarial examples](common/eval/distal_evaluation.py)
-    * [out-of-distribution examples](common/eval/out_of_distribution_evaluation.py)
     * [corrupted examples](common/eval/corrupted_evaluation.py)
 * [Models](models/README.md):
     * (wide, pre-activation) ResNet
